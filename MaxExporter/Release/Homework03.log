@@ -1,0 +1,12 @@
+﻿已經開始建置於 2015/2/25 上午 07:42:26。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\kang\Desktop\MaxExporter\Homework03\Homework03.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 ".\Release\MaxExport.unsuccessfulbuild"。
+       MakeDirsForCl:
+         正在建立目錄 "C:\Program Files\Autodesk\3ds Max 9\plugins"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(714,5): error MSB3191: 無法建立目錄 "C:\Program Files\Autodesk\3ds Max 9\plugins"。拒絕存取路徑 'C:\Program Files\Autodesk\3ds Max 9\plugins'。
+     1>專案 "C:\Users\kang\Desktop\MaxExporter\Homework03\Homework03.vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.40
